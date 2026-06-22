@@ -17,7 +17,7 @@ I'm a Computer Science student passionate about Artificial Intelligence, Machine
 
 ### Languages
 
-![My Skills](https://skillicons.dev/icons?i=java,python,js)
+![My Skills](https://skillicons.dev/icons?i=java,python,js,c,c++)
 
 ### Web Development
 
