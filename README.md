@@ -51,7 +51,7 @@ Building AI-powered applications using Python, Machine Learning, and modern AI t
 
 ## 📊 GitHub Statistics
 
-![Darsheel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmadarsheel\&show_icons=true\&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmadarsheel\&layout=compact\&theme=tokyonight)
 
